@@ -86,3 +86,11 @@ body {
     padding-left: 0;
   }
 }
+
+/* Document download page style*/
+.document-row{
+	text-align: center;
+	width: 220px;
+	height: 220px;
+	margin: 20px;
+}
